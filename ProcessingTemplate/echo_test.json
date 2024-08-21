@@ -8,6 +8,6 @@
   "customFieldValues": {
   },
   "processingCommand": {
-    "script": "echo \"hello, world!\""
+    "script": "echo \"bye, world!\""
   }
 }
